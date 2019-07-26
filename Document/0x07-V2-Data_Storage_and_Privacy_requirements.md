@@ -16,7 +16,8 @@ Sensitive data in the context of the MASVS pertains to both user credentials and
 
 test4 
 
-<div style="page-break-after: always;" ></div>
+<div style="page-break-after: always;" >
+</div>
 
 ## Security Verification Requirements
 
